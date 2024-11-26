@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaki2\\source\\repos\\SegundoExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoExamen.csproj|c:\\users\\vaki2\\source\\repos\\segundoexamen\\segundoexamen\\vistas\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoExamen.csproj|solutionrelative:segundoexamen\\vistas\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoExamen.csproj|c:\\users\\vaki2\\source\\repos\\segundoexamen\\segundoexamen\\capamodelo\\clsasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoExamen.csproj|solutionrelative:segundoexamen\\capamodelo\\clsasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoExamen.csproj|c:\\users\\vaki2\\source\\repos\\segundoexamen\\segundoexamen\\capalogica\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoExamen.csproj|solutionrelative:segundoexamen\\capalogica\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoExamen.csproj|c:\\users\\vaki2\\source\\repos\\segundoexamen\\segundoexamen\\vistas\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB96482-78CC-4559-AF97-6082440C9EC1}|SegundoExamen\\SegundoExamen.csproj|solutionrelative:segundoexamen\\vistas\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asignacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\SegundoExamen\\SegundoExamen\\Vistas\\Asignacion.aspx.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Asignacion.aspx.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\SegundoExamen\\SegundoExamen\\Vistas\\Asignacion.aspx.cs",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Asignacion.aspx.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwFwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:03:23.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asignaciones.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\SegundoExamen\\SegundoExamen\\CapaLogica\\Asignaciones.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\CapaLogica\\Asignaciones.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\SegundoExamen\\SegundoExamen\\CapaLogica\\Asignaciones.cs",
+              "RelativeToolTip": "SegundoExamen\\CapaLogica\\Asignaciones.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwFIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:59:00.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsAsignacion.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\SegundoExamen\\SegundoExamen\\CapaModelo\\ClsAsignacion.cs",
+              "RelativeDocumentMoniker": "SegundoExamen\\CapaModelo\\ClsAsignacion.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\SegundoExamen\\SegundoExamen\\CapaModelo\\ClsAsignacion.cs",
+              "RelativeToolTip": "SegundoExamen\\CapaModelo\\ClsAsignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:57:25.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asignacion.aspx",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\SegundoExamen\\SegundoExamen\\Vistas\\Asignacion.aspx",
+              "RelativeDocumentMoniker": "SegundoExamen\\Vistas\\Asignacion.aspx",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\SegundoExamen\\SegundoExamen\\Vistas\\Asignacion.aspx",
+              "RelativeToolTip": "SegundoExamen\\Vistas\\Asignacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T01:51:36.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
